@@ -56,7 +56,7 @@ const defaultMenu = {
 ┆⬡ *Premium* : Ⓟ
 ┆⬡ *Uptime:* : %uptime (%muptime)
 ┆⬡ *Run Bot* : Okteto/heroku
-┆⬡ *Ig Owner* : instagram.com/oscarbotz_
+┆⬡ *Ig Owner* : instagram.com/amirbot_01
 ┗─────────────────⬣
 %readmore`.trimStart(),
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
